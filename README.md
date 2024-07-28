@@ -9,11 +9,7 @@ Software Engineer @ Relevantz
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
-
-<img width="48" height="48" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c-sharp-logo"/>
-<img width="60" height="60" src="https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png" alt="external-dev-coding-and-development-flat-flat-juicy-fish"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img width="48" height="48" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/><img width="48" height="48" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c-sharp-logo"/><img width="48" height="48" src="https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png" alt="external-dev-coding-and-development-flat-flat-juicy-fish"/>
 
 
 
